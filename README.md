@@ -7,7 +7,7 @@ Hi, I'm Ben.  I've been a software developer for a while.  I've worked on things
 - Linux drivers [Mostly work, NDA]
 - Keyboard development [Hobby]
 
-
+I've done almost nothing with external git repos; looking to change that.  Old habits die hard, though.
 
 <!---
 curiously-b2/curiously-b2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
